@@ -1,0 +1,35 @@
+# Ignore CSV files
+*.csv
+
+# Ignore the upload folder
+uploads/
+
+
+# Node modules
+node_modules/
+
+# Log files
+*.log
+
+# Environment variables
+.env
+
+# Build output
+dist/
+build/
+
+# IDE/editor specific files
+.vscode/
+.idea/
+*.swp
+*.suo
+*.ntvs_analysis.dat
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
